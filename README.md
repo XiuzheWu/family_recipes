@@ -2,6 +2,6 @@
 
 Set of recipes as given by my grandma.
 
-* Pzzas 
-* Saces 
-* Speads
+* Pizzas 
+* Sauces 
+* Spreads
